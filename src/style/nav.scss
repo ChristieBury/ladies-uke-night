@@ -1,0 +1,26 @@
+.nav-container {
+    display: flex;
+    justify-content: space-around;
+    font-size:1.5em;
+    font-family: 'Sen', sans-serif;
+    text-decoration: none;
+
+    .nav-link-active{
+    color: darkblue;
+    text-decoration: none;
+    cursor: pointer;
+
+        &:hover {
+            color:lightcoral;
+            
+        }
+    }
+    
+}
+a {
+    color: darkblue;
+    text-decoration: none;
+    &:hover {
+        color: lightcoral;
+    }
+            }

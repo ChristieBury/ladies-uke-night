@@ -1,0 +1,70 @@
+.contact-background {
+    background-image: 100%;
+    height:1200px;
+    background-repeat: no-repeat;
+}
+
+
+.contact-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-family: 'Sen', sans-serif;
+    justify-content: center;
+    background-repeat: no-repeat;
+    
+   
+
+    
+    .left-wrapper {
+        display:flex;
+        justify-content: center;
+       
+        .logo-wrapper {
+          width: 250px;  
+          height: 120px;
+          
+        }
+    }
+
+    .right-wrapper {
+    
+        .contact-wrapper-info {
+        display:flex;
+        justify-content: center;
+        // padding: 20px 0px 500px;
+        color:darkblue;
+        font-size: 2em;
+
+       
+    }
+
+        .address-wrapper {
+        display: flex;
+        justify-content: center;
+        color:darkblue;
+        font-size: 1.5em;
+        padding: 50px 0px 290px;
+        }
+        .email-wrapper {
+            display: flex;
+            justify-content: center;
+            padding-top: 20px;
+            color: darkblue;
+        
+        }
+        
+        
+    }
+           a button {
+                padding: 10px;
+            }   
+
+        .left-wrapper {
+            .logo-wrapper{
+            background-size: 50%;
+            }
+    
+            }
+    
+        }
+    
