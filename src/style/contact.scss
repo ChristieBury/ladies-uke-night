@@ -1,7 +1,9 @@
 .contact-background {
-    background-image: 100%;
+    background-image:100%;
     height:1200px;
     background-repeat: no-repeat;
+  
+    
 }
 
 
@@ -11,6 +13,7 @@
     font-family: 'Sen', sans-serif;
     justify-content: center;
     background-repeat: no-repeat;
+    padding: 10px;
     
    
 
@@ -22,6 +25,8 @@
         .logo-wrapper {
           width: 250px;  
           height: 120px;
+          padding-left: 34px;
+         
           
         }
     }
@@ -30,10 +35,10 @@
     
         .contact-wrapper-info {
         display:flex;
-        justify-content: center;
-        // padding: 20px 0px 500px;
         color:darkblue;
         font-size: 2em;
+
+       
 
        
     }
@@ -55,16 +60,10 @@
         
         
     }
-           a button {
+        a button {
                 padding: 10px;
-            }   
+        }   
 
-        .left-wrapper {
-            .logo-wrapper{
-            background-size: 50%;
-            }
     
-            }
-    
-        }
+}
     
