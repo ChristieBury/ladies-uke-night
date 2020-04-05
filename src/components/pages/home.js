@@ -46,7 +46,7 @@ export default class Home extends Component {
                 <div className="uke-name"></div>
                 <div className="night-name"></div> */}
                 <div className="date">Next Ladies Night!<br/>
-                May 1, 2020<br/><br/>
+                May 8, 2020<br/><br/>
                 @ 7:00 pm</div>
                 <div className="logo-wrapper">
                 <img className="logo" src={logoImage}
